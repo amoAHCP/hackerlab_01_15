@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.jacpfx:jacpfx.API:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:4.9" level="project" />
+    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jacpfx:jacpfx.JavaFX:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.jacpfx:jacpfx.JavaFXLauncher:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.jacpfx:jacpfx.JavaFXControls:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.guigarage:flatter:0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.controlsfx:controlsfx:8.20.8" level="project" />
+    <orderEntry type="library" name="Maven: org.controlsfx:openjfx-dialogs:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: io.vertx:vertx-core:2.0.2-final" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.2" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-all:4.0.10.Final" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.hazelcast:hazelcast:2.6" level="project" />
+    <orderEntry type="library" name="Maven: io.vertx:vertx-platform:2.0.2-final" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.paho:mqtt-client:0.4.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.pi4j:pi4j-core:0.0.5" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
+  </component>
+</module>
